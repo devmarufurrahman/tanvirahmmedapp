@@ -87,7 +87,8 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
             }
             R.id.nav_contact -> {
                 // Add appropriate action for "Contact Me"
-
+                val intent = Intent(this, ContactMe::class.java)
+                startActivity(intent)
             }
             R.id.nav_complain -> {
                 // Add appropriate action for "Complain Us"

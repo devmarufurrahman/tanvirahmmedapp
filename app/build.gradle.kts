@@ -52,4 +52,6 @@ dependencies {
 
 //    for bottom navigation
     implementation (libs.expandablebottombar)
+//    for circle images
+    implementation (libs.circleimageview)
 }

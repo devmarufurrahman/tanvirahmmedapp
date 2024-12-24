@@ -244,7 +244,7 @@
         app:headerLayout="@layout/main_menu_header"
         android:paddingBottom="96dp"
         android:layout_gravity="start"
-        android:visibility="gone"/>
+        android:visibility="visible"/>
 
 </androidx.drawerlayout.widget.DrawerLayout>
 

@@ -9,4 +9,12 @@
     <color name="colorPrimary">#2c3e50</color>
     <color name="colorPrimaryDark">#1a252f</color>
     <color name="colorAccent">#e74c3c</color>
+
+    <color name="primary">#4158D0</color>
+    <color name="primary_dark">#3046B5</color>
+    <color name="accent">#C850C0</color>
+    <color name="background">#F8F9FF</color>
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="upload_background">#354760</color>
 </resources>
